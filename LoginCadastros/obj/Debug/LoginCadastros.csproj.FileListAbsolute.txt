@@ -1,0 +1,14 @@
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.csproj.AssemblyReference.cache
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.csproj.SuggestedBindingRedirects.cache
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\bin\Debug\LoginCadastros.exe.config
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\bin\Debug\LoginCadastros.exe
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\bin\Debug\LoginCadastros.pdb
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.csproj.ResolveComReference.cache
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.Form1.resources
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.Properties.Resources.resources
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.SignUp.resources
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.csproj.GenerateResource.cache
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.csproj.CoreCompileInputs.cache
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.exe
+C:\Users\João e Bruno\Desktop\Login-CadastroWinForm\LoginCadastros\LoginCadastros\obj\Debug\LoginCadastros.pdb

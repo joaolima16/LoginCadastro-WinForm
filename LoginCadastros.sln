@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginCadastros", "LoginCadastros\LoginCadastros.csproj", "{CFFD3073-E74E-4817-9C2F-430A3B01E2F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFD3073-E74E-4817-9C2F-430A3B01E2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFD3073-E74E-4817-9C2F-430A3B01E2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFD3073-E74E-4817-9C2F-430A3B01E2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFD3073-E74E-4817-9C2F-430A3B01E2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5664B7C-908B-4C50-B8FE-E66DBA901A8C}
+	EndGlobalSection
+EndGlobal
